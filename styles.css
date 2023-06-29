@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+}
+
+
+
+    body {
+      margin: 0;
+      font-family: system-ui, Caprasimo;
+      color: black;
+      background-color: #3399FF;
+    }
+    
+    h1{ color: #42FF33;
+       text-align:center; }
+    
+    img{position: relative;
+    left:150px;}
+    
+    footer{position: absolute;
+    left:150px}
+    
+    ul{margin-left: 50px;}
+    
+    b{padding: 50px;}
+    
+    h1 {
+      font-weight: bold;
+      font-size: 1.5rem;
+    }
